@@ -40,7 +40,12 @@ A mobile application that enables secure file transfer between verified users us
 ---
 
 ## 🔄 How it Works
-[![Watch the video](https://ibb.co/7J4hPyW5)](https://vimeo.com/1082106648?share=copy)
+## How to use the app
+
+Here is a video demonstration of how to use the app:
+
+[![Watch the video](https://vumbnail.com/1082106648.jpg)](https://vimeo.com/1082106648?share=copy)
+
 
 
 
