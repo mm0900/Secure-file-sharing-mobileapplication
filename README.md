@@ -40,7 +40,8 @@ A mobile application that enables secure file transfer between verified users us
 ---
 
 ## 🔄 How it Works
-[Watch the video](https://vimeo.com/1082106648?share=copy)
+[![Watch the video](https://ibb.co/7J4hPyW5)](https://vimeo.com/1082106648?share=copy)
+
 
 
 1. **Sender Registration** – User signs up and receives an email verification link.
