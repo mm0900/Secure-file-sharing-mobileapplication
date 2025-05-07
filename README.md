@@ -40,6 +40,8 @@ A mobile application that enables secure file transfer between verified users us
 ---
 
 ## 🔄 How it Works
+[Watch the video](https://vimeo.com/1082106648?share=copy)
+
 
 1. **Sender Registration** – User signs up and receives an email verification link.
 2. **Receiver Registration** – Receiver creates an account with a valid Receiver ID (e.g., R5678).
